@@ -1,11 +1,27 @@
-# [Udacity Data Analyst Degree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) 
+<p align="center">
+  <a href="https://www.udacity.com/">
+    <img src='https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/5511/s300/udacity-logo.png' alt="Udacity logo" width = 100px>
+   </a>
+</p>
+<h3 align="center"><a href='https://www.udacity.com/course/data-analyst-nanodegree--nd002'> Udacity Data Analyst Degree </a></h3>
+<h4 align="center">Project I: Explore Weather Trends</h4>
 
-## Project: Explore Weather Trends
+## Table of Contents
+- [Installation](#installation)
+- [Summary](#summary)
+- [Project Instructions](#pi)
+- [Project Submission](#ps)
+- [Project Motivation](#motivation)
+- [Results](#results)
+- [Licensing, Authors, and Acknowledgements](#licensing)
 
-### Summary:
+## Installation <a name="installation"></a>
+You need to be able to work in a Excel on your computer. And you also have some Knowledge of SQL to download Data-set from Udacity through SQL.
+
+### Summary <a name="summary"></a>
 In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-### Instructions:
+### Project Instructions <a name="pi"></a>
 Your goal will be to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live. To do this, you’ll follow the steps below:
 
 <ul>
@@ -27,7 +43,7 @@ Your goal will be to create a visualization and prepare a write up describing th
    </ul>
 </ul>
 
-### Submission:
+### Project Submission <a name="ps"></a>
 
 Your submission should be a PDF that includes:
 
@@ -42,3 +58,28 @@ Your submission should be a PDF that includes:
   <li>At least <strong>four observations</strong> about the similarities and/or differences in the trends</li>
   </ul>
 
+## Project Motivation <a name="motivation"></a>
+This is an Udacity Nanodegree project.I was interested in using Weather Data to Answer Some Question Asked By Udacity: </br>
+- What tools did you use for each step? (Python, SQL, Excel, etc).
+- How did you calculate the moving average?
+- What were your key considerations when deciding how to visualize the trends?
+
+## Results <a name="results"></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Explore-Weather-Trends/master/Graph-1.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Explore-Weather-Trends/master/Graph-2.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Explore-Weather-Trends/master/Graph-3.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek20182/Explore-Weather-Trends/master/Graph-4.png">
+</p>
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Udacity for the data. You can find the Licensing for the data and other descriptive information at Udacity Website in Udacity Data Analyst Degree in Project I: Explore Weather Trends.
